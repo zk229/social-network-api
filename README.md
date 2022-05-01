@@ -20,7 +20,7 @@
 
   ## Usage
 
-  This should be used as part of a larger project.  There is no frontend as of right now, and as such this is limited to only backend functionality.
+  This should be used as part of a larger project.  There is no frontend as of right now, and as such this is limited to only backend functionality.  For a video demonstrating the usage of this project, check out [this video](https://youtu.be/6bw7u6Npfb8).
 
   ## How to Contribute
 
